@@ -1,6 +1,8 @@
 # Orderly - Task Management App
 
-<img src="Orderly/Image/orderly.png" width="300" alt="App Screenshot">
+<p align="center">
+  <img src="Assets/screenshot.png" width="300" alt="App Screenshot">
+</p>
 
 ## 📌 About Orderly
 Orderly is a powerful **task management app** designed to help you efficiently track your daily activities and collaborate with team members. Whether you're managing personal to-dos or working on group projects, Orderly keeps everything organized in one place.
