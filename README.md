@@ -1,7 +1,7 @@
 # Orderly - Task Management App
 
 <p align="center">
-  <img src="Assets/screenshot.png" width="300" alt="App Screenshot">
+  <img src="Orderly/Image/orderly.png" width="300" alt="App Screenshot">
 </p>
 
 ## 📌 About Orderly
